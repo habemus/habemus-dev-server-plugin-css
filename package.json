@@ -1,0 +1,15 @@
+{
+  "name": "habemus-dev-server-processor-css",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^9.1.5",
+    "postcss": "^7.0.2"
+  }
+}
